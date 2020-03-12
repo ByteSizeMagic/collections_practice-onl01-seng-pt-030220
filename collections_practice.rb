@@ -48,7 +48,7 @@ end
 def kesha_maker(array)
   keshafied = []
   array.each do |character|
-    keshafied << 
+    keshafied <<
   end
   keshafied
 end
