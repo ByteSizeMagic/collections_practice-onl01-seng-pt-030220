@@ -46,11 +46,9 @@ end
 
 
 def kesha_maker(array)
-  keshafied = []
   array.each do |character|
-    keshafied <<
+    character[2] = "$"
   end
-  keshafied
 end
 
 def hamburger(toppings)
